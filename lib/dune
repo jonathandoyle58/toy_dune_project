@@ -1,0 +1,3 @@
+(library
+ (include_subdirs unqualified)
+ (name goose_farm_lib))
